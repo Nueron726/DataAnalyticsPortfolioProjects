@@ -2,3 +2,7 @@ https://public.tableau.com/app/profile/alexis.i.soto/viz/CovidDashboard_16229589
 
 This dashboard link provides my tableau dashboard of data collected from https://ourworldindata.org/covid-deaths as of 6/6/2021. I created tables using queries from 
 Micorsoft SQL studios managment! 
+
+
+Please note, as of 6/6/2021 12:26 PM Chrome at 80% zoom is needed to comfortable view all the data. For one reason or another, Tableau automatic resizing isn't displaing all 
+the visualizations correctly on Chrome standard 100% view. This does not effect the statistics. 
